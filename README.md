@@ -57,12 +57,12 @@ Example Review:
 → Negative 😞
 
 ## 🎯 Machine Learning Workflow
-1.Data Collection
-2.Data Cleaning
-3.Text Preprocessing
-4.TF-IDF Vectorization
-5.Model Training
-6.Sentiment Prediction
+1. Data Collection
+2. Data Cleaning
+3. Text Preprocessing
+4. TF-IDF Vectorization
+5. Model Training
+6. Sentiment Prediction
 
 ## 📈 Future Improvements
 - Neutral Sentiment Detection
