@@ -49,7 +49,7 @@ Run Application
 streamlit run app.py
 ```
 
-Example Review:
+### Example Review:
 "The pizza was amazing and delicious."
 → Positive 😊
 
